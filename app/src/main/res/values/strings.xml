@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">500px Search</string>
+    <string name="search">Image Search</string>
+    <string name="consumer_key">insert-key-here</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="no_string_error">Please enter a search string.</string>
+    <string name="no_network_error">Sorry, website cannot be accessed. Please check your internet connection.</string>
+    <string name="no_results_error">Your search gave no results.</string>
+    <string name="tag_photo_title">Photo title</string>
+    <string name="tag_artist">Photographer</string>
+    <string name="tag_description">Description</string>
+    <string name="tag_rating">Rating</string>
+    <string name="tag_favorites">Favorites</string>
+    <string name="tag_website">Photo URL</string>
+
+</resources>
